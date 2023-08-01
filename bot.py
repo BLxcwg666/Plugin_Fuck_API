@@ -3,7 +3,7 @@ from telegram import Update, ParseMode
 from telegram.ext import Updater, CommandHandler, MessageHandler, Filters, CallbackContext
 
 # Set your Telegram Bot Token here
-BOT_TOKEN = '6555978377:AAEc5lWTfTRIeV-p4VmaZb9dd54UR4NMWZQ'
+BOT_TOKEN = '1234567890:xJ3uG47bPuE54b3GkOyTq7Cj47lV'
 
 # Set your Telegram Admin User IDs here (comma-separated)
 ADMIN_USER_IDS = [5502448506]
